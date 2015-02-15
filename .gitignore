@@ -1,0 +1,4 @@
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+/resttest/target/
+/dataformats/target/
+/kafka-spark-streaming-cassandra/target/
